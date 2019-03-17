@@ -1,6 +1,7 @@
 # GetEmailFromWebsite
 To get email from Website we will use Regex. Additional, we can get Phone number and more you can search expression on Internet
 
+Install HtmlAgilityPack on Nuget first!
 
 Use this Website to test Regex: https://regex101.com
 
